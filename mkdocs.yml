@@ -1,11 +1,11 @@
-site_name: CharmPy Parallel & Distributed Computing Documentation
-site_description: Technical documentation for CharmPy: asynchronous message-driven execution, adaptive runtime systems, and parallel chare arrays.
+site_name: "CharmPy Parallel & Distributed Computing Documentation"
+site_description: "Technical documentation for CharmPy: asynchronous message-driven execution, adaptive runtime systems, and parallel chare arrays."
 site_url: https://charmpy.readthedocs.io/
 theme:
   name: readthedocs
 
 nav:
-  - CharmPy Architecture & Overview: index.md
-  - Chare Arrays & Message-Driven Execution: chares-and-arrays.md
-  - Distributed Telemetry & News Wire Infrastructure: distributed-wire-telemetry.md
-  - Troubleshooting & Performance Tuning: troubleshooting.md
+  - "CharmPy Architecture & Overview": index.md
+  - "Chare Arrays & Message-Driven Execution": chares-and-arrays.md
+  - "Distributed Telemetry & News Wire Infrastructure": distributed-wire-telemetry.md
+  - "Troubleshooting & Performance Tuning": troubleshooting.md
